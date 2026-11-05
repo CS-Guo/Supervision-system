@@ -1,0 +1,12 @@
+**/.DS_Store
+.git
+.agents
+.codex
+dist
+backend/data
+backend/.env*
+backend/testdata
+**/*_test.go
+督办系统_20261103.html
+deploy/.env
+deploy/*.tar*
